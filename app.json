@@ -1,10 +1,10 @@
 {
 	"name": "Super Fclone Bot",
 	"description": "Super Fclone Bot",
-	"repository": "https://github.com/kzinthant-kas/superfclone",
+	"repository": "https://github.com/thantzinmyothant1/FcloneTG",
 	"keywords": ["fclone","FG"],
         "website": "https://t.me/drivetalk",
-        "success_url": "https://github.com/kzinthant-kas/superfclone/blob/main/README.md",
+        "success_url": "https://github.com/thantzinmyothant1/FcloneTG/blob/main/README.md",
 	"env": {
 		"telegram_token": {
 			"description": "Get one from @botfather by creating new bot"
